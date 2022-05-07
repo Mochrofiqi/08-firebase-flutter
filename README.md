@@ -18,10 +18,9 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img src="assets/ss.png" width="350">
-![image.png](assets/ss.png) width="350" <br>
-![image.png](assets/ss1.png) width="350" <br>
-![image.png](assets/ss2.png) width="350" <br>
-![image.png](assets/ss3.png) width="350" <br>
-![image.png](assets/ss4.png) width="350" <br>
-![image.png](assets/ss5.png) width="350" <br>
+<img src="assets/ss.png" width="400">
+<img src="assets/ss1.png" width="400">
+<img src="assets/ss2.png" width="400">
+<img src="assets/ss3.png" width="400">
+<img src="assets/ss4.png" width="400">
+<img src="assets/ss5.png" width="400">
